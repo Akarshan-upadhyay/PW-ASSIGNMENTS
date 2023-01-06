@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Test {
+public class Q10 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
